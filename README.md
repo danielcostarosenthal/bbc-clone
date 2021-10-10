@@ -1,3 +1,3 @@
 # bbc-clone
 
-All images are from picsum.com and/or unsplash.com
+All images are available @ picsum.com and/or unsplash.com
