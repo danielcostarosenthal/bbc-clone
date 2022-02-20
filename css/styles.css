@@ -192,7 +192,7 @@ img {
 	object-fit: cover;
 }
 
-.reel-content img {
+.reel-content > img {
 	border-bottom-left-radius: 0;
 	border-bottom-right-radius: 0;
 }
