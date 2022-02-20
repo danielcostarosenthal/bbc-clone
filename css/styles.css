@@ -13,7 +13,7 @@
 }
 
 :root {
-	--border-radius: 0;
+	--border-radius: 5px;
 	--main-color: hsl(220, 80%, 40%);
 	--header-height: 2rem;
 	scroll-behavior: smooth;
