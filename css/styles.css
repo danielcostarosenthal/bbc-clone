@@ -192,6 +192,11 @@ img {
 	object-fit: cover;
 }
 
+.reel-content img {
+	border-radius-bottom-left: 0;
+	border-radius-bottom-right: 0;
+}
+
 .reel-content img:hover,
 .news-content img:hover {
 	transform: translateY(-0.5rem);
