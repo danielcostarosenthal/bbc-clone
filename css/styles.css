@@ -203,6 +203,10 @@ img {
 	/* box-shadow: 0 0 0.25rem 0 hsl(0, 0%, 75%); */
 }
 
+.reel-content {
+	border-radius: var(--border-radius);
+}
+
 .reel-content,
 .news-content {
 	display: flex;
